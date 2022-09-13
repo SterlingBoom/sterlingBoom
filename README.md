@@ -15,5 +15,5 @@ I'm a Software Engineer,  passionate about the being in the tech space, I enjoy 
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Olubunmi Ajike&show_icons=true&include_all_commits=true&hide_border=true" alt="Olubun mi's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlatujoyeOlubunmi&langs_count=8&layout=compact&hide_border=true" alt="Olubunmi's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=SterlingBoom&show_icons=true&include_all_commits=true&hide_border=true" alt="Olubun mi'sGitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SterlingBoom&langs_count=8&layout=compact&hide_border=true" alt="Olubunmi'sGitHub stats" /> |
 | ------------- | ------------- |
