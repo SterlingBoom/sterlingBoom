@@ -11,7 +11,7 @@ I'm a Software Engineer,  passionate about the being in the tech space, I enjoy 
 - 🌱 I’m currently learning JavaScript and Reactjs with existing knowledge of HTML. CSS3,Bootstrap and version control with Git
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing bummiecarez.com.
+- 📫 You can [view my resume](#) and contact me by emailing bummiecarez@gmail.com.
 
 ---
 
