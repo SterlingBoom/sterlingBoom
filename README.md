@@ -7,8 +7,8 @@ I'm a Software Engineer,  passionate about the being in the tech space, I enjoy 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript and Reactjs with existing knowledge of HTML. CSS3,Bootstrap and version control with Git
+- 💡 Fun fact: I'm currently running a full stack tech program in Obsidi Academy
+- 🌱 I’m currently learning Java 
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer.
 - 📫 You can [view my resume](https://www.linkedin.com/in/oluwabunmi-ajike-889b56153?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2Bdse002wTjKFpr09qtCeLQ%3D%3D) and contact me by emailing bummiecarez@gmail.com.
